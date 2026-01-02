@@ -1,3 +1,7 @@
+#Add New Column
+#Add a new column "Discounted_Price" to df which is 10% of Price.
+
+
 import pandas as pd
 
 sales =pd.read_csv('sales_data.csv')

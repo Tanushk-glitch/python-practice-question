@@ -1,3 +1,6 @@
+#DataFrame Creation
+#Create a Pandas DataFrame from this dictionary and display it:
+
 import pandas as pd
 
 data = {
