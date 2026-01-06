@@ -1,23 +1,40 @@
-Welcome to my Python and Pandas practice repository!<br>
-This repository contains solved Python and Pandas questions that I practice regularly to strengthen my programming, data handling, and analysis skills.<br><br>
-The goal of this repo is to build strong fundamentals, improve problem-solving ability, and gain hands-on experience with real-world data scenarios.<br>
-📌 Topics Covered<br>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🐍 Python<br>
+# 🐍 Python Practice Questions
 
-Variables & Data Types.<br>
-Conditional Statements.<br>
-Loops.<br>
-Functions.<br>
-File Handling.<br>
-Problem-solving .<br>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📊 Pandas<br>
+## 📌 Project Overview
+This repository contains a collection of Python practice questions and solutions designed to strengthen programming fundamentals.  
+The problems focus on logic building, syntax clarity, and real-world problem-solving using Python.
 
-Series & DataFrames.<br>
-Reading & Writing CSV files.<br>
-Data Cleaning & Preprocessing.<br>
-Handling Missing Values.<br>
-GroupBy Operations.<br>
-Data Filtering & Sorting.<br>
-Basic Data Analysis.<br>
+---
+
+## 🎯 Objectives
+- Improve Python programming fundamentals
+- Practice problem-solving and logical thinking
+- Gain confidence with Python syntax
+- Prepare for interviews and coding assessments
+
+---
+
+## 🛠️ Technologies Used
+- Python
+
+---
+
+## 📚 Topics Covered
+- Variables and Data Types
+- Conditional Statements
+- Loops
+- Functions
+- Strings and Lists
+- Basic Mathematics
+- Input and Output
+
+---
+
+## 🧠 Concepts Practiced
+- Logical reasoning
+- Control flow
+- Code readability
+- Function-based problem solving
+- Error handling (basic)
+
+
