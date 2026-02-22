@@ -35,6 +35,6 @@ The problems focus on logic building, syntax clarity, and real-world problem-sol
 - Control flow
 - Code readability
 - Function-based problem solving
-- Error handling (basic)
+
 
 
